@@ -19,8 +19,6 @@ I will go through the whole process of creating a machine learning model on the 
 
 
 
-TASK:3
-Number Recoginition:
+TASK:3 Number Recognition 🖋️
 
-
-In this notebook, we are going to use the MNIST dataset for the implementation of a handwritten digit recognition app. To implement this we will use a special type of deep neural network called Convolutional Neural Networks. In the end, we will also build a Graphical user interface(GUI) where you can directly draw the digit and recognize it straight away.
+In this notebook, we will harness the MNIST dataset to construct a handwritten digit recognition application. To achieve this, we will utilize a specialized type of deep neural network known as Convolutional Neural Networks 🧠. At the conclusion, we will also create a Graphical User Interface (GUI) where you can directly sketch a digit and instantly recognize it 🖋️.
